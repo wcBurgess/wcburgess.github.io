@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 name: Wendy C Burgess
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
